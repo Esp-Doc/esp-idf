@@ -1,7 +1,7 @@
 Contributions Guide
 ===================
 
-We welcome contributions to the esp-idf project!
+We welcome contributions to the ESP-IDF project!
 
 How to Contribute
 -----------------
